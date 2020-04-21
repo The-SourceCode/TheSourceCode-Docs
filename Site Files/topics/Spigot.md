@@ -30,21 +30,29 @@ Open a Terminal or command line window. First we need to confirm that you have a
 ## Download your IDE
 Now that we have installed Java we are ready to install our IDE. For the purposes of this, we will based the majority of our keyboard shortcuts and setup off of Intellij IDE. But if you are using Eclipse, feel free to remap your keys to fit along with the Intellij keyboard scheme. 
 
-[Intellij IDE Download](https://www.jetbrains.com/idea/download/) / [Elcipse IDE Download](https://www.eclipse.org/downloads/)
+[Intellij IDE Download](https://www.jetbrains.com/idea/download/) / [Eclipse IDE Download](https://www.eclipse.org/downloads/)
 
 ## Setup your IDE
 
 ### Intellij
-If you have Java installed chances are Intellij will automatically find it. If not Intellij has an incredible and easy [Tutorial on setting up the SDK](https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html). You only have to read to about Step 5. Once you get that far you can jump back over to this tutorial.
+This is our preffered IDE but feel free to use your own. As of May 2020 this is what all our tutorials will be based upon. So following with Eclipse or any other IDE may become difficult but not impossible. Some steps may take slightly more time to complete as you may have to find your IDE's version of what Intellij has.
+
+#### Java Project Setup
+Let's first letes Launch IntelliJ IDEA. If this is truly your first time opening the program then chances are you will get the welcome screen. Just go ahead and click Create **New Project**. If the welcome screen is not present, from the top toolbar select `File -> New -> Project`.
+
+In the Project wizard, select Java from the list on the left. To develop Java applications in IntelliJ IDEA, you need the Java SDK (JDK). If the necessary JDK is already discovered by IntelliJ IDEA, select it from the Project SDK list. If the JDK is installed on your computer, but not discovered by the IDE, select `Add JDK` and specify the path to the JDK home directory (for example, `/Library/Java/JavaVirtualMachines/jdkXXX.jdk`).
+
+If you do not have a JDK on your computer, select **Download JDK**. In the next dialog, specify the JDK, version, change the installation path if required, and click **Download**.
+
+![Image](/images/java-project-01_1.gif)
 
 #### Maven Project Setup
 For any beginners our there, you are probably wondering what maven even is. Maven will provide very useful in the future, but for getting started with the basics I would probably skip over it for now. 
 
 If you wish to learn more about Maven, [feel free to visit their site](http://maven.apache.org/what-is-maven.html)
-#### Java Project Setup
-![Image](/images/java-project-01_1.gif)
 
 
+#### Create a package and a class
 
 ### Eclipses 
 *Coming soon*
