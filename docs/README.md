@@ -14,3 +14,5 @@ features:
   details: We know that most of you are just learning, that is why we have taken the time to carefully craft this site to ensure little to no questions.
 footer: MIT Licensed | Copyright © 2020 TheSourceCode LLC
 ---
+
+<script data-ad-client="ca-pub-4370054694506507" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

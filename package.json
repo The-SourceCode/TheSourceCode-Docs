@@ -1,8 +1,9 @@
 {
   "devDependencies": {
-    "vuepress": "^1.4.1"
-  },  "scripts": {
+    "vuepress": "^1.4.1",
+    "vuepress-plugin-google-adsense": "^0.1.0"
+  },
+  "scripts": {
     "docs:build": "vuepress build docs"
   }
-  
 }
