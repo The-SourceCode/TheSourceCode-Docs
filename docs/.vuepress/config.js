@@ -18,9 +18,6 @@ module.exports = {
                 'Spigot',
                 'Discordjs'
             ]
-        },
-        "scripts": {
-            "docs:build": "vuepress build docs"
-          }
+        }
     }
 }
