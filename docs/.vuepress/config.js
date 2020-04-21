@@ -19,13 +19,5 @@ module.exports = {
                 'Discordjs'
             ]
         }
-    },
-    plugins: [
-        [
-          "vuepress-plugin-google-adsense",
-          {
-            ad_client: "ca-pub-4370054694506507" // replace it with your ad_client
-          }
-        ]
-      ]
+    }
 }
