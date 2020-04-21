@@ -19,7 +19,6 @@ module.exports = {
                 'Discordjs'
             ]
         }
-<<<<<<< HEAD
     },
     plugins: [
         [
@@ -30,7 +29,3 @@ module.exports = {
         ]
       ]
 }
-=======
-    }
-}
->>>>>>> 7489ea1386945a9a1174c7d3a1fbbe0c7adb36ad
