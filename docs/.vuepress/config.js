@@ -1,6 +1,6 @@
 module.exports = {
     title: 'TheSourceCode Education',
-    description: 'Documents site',
+    description: 'High quality and up to date tutorials covering Spigot plugin development, Discord.js Bot development, and so much more!',
     themeConfig:{
         
         nav:[
@@ -19,6 +19,7 @@ module.exports = {
                 'Discordjs'
             ]
         }
+<<<<<<< HEAD
     },
     plugins: [
         [
@@ -29,3 +30,7 @@ module.exports = {
         ]
       ]
 }
+=======
+    }
+}
+>>>>>>> 7489ea1386945a9a1174c7d3a1fbbe0c7adb36ad
