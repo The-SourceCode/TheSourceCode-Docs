@@ -1,6 +1,6 @@
 module.exports = {
     title: 'TheSourceCode Education',
-    description: 'Documents site',
+    description: 'High quality and up to date tutorials covering Spigot plugin development, Discord.js Bot development, and so much more!',
     themeConfig:{
         
         nav:[
