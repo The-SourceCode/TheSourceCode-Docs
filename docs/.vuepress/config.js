@@ -8,7 +8,7 @@ module.exports = {
         {text: 'About', link: '/about/'},
         {text: 'Topics', link: '/topics/'},
         {text: 'Donate', link: '/Donate/'},
-        {text: 'Discord', link: 'https://discord.thesourcecode.dev'},
+        {text: 'Discord', link: 'https://discordapp.com/invite/w24CQMR'},
         ],
         sidebarDepth: 10,
         sidebar: {
