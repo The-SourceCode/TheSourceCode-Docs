@@ -7,7 +7,7 @@ We would advise that you start using newer version of Java *(Java 10+)* as this 
 
 **Make sure to download the proper file based on your operating system / Linux distro.**
 
-[Java 10 Download](https://www.oracle.com/java/technologies/java-archive-javase10-downloads.html) / [Java 11 Download](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) / [Java 12 Download](https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html)
+[Java 8 Download](https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot) / [Java 11 Download](https://adoptopenjdk.net/?variant=openjdk11&jvmVariant=hotspot) / [Java 14 Download](https://adoptopenjdk.net/?variant=openjdk14&jvmVariant=hotspot)
 
 
 Once you have downloaded and installed your Java, ensure that it its properly installed by typing `Java --version` in your command prompt or terminal. If nothing shows up, try setting your system to correct environment variables.
