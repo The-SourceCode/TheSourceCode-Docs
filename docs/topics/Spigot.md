@@ -3,7 +3,7 @@
 Getting started with Spigot plugin development can seem like a daunting task at first. Keep in mind that there is an incredible community on our [Discord](https://discord.thesourcecode.dev) that can provide additional help. One of the first things you should do is **learn some Java Basics** with our [Java beginners guide](). This is a common thing told to many new Spigot plugin developers and it is something that most refuse to do. While it may take about a week or two of your time away from developing your super fun plugins, it will increase your overall understanding of plugin development.
 
 ## Installing Java
-We would advise that you start using newer versions of Java (Java 10+) as these offer more features, better security, and overall performance boosts. If your host is not using a Java version compatible with yours, then make sure to contact them and the version that you are using
+We would advise that you start using newer versions of Java (Java 10+) as these offer more features, better security, and overall performance boosts. If your host is not using a Java version compatible with yours, then make sure to contact them and get the version that you are using
 
 **Make sure to download the proper file based on your operating system / Linux distro.**
 
