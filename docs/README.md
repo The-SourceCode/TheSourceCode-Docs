@@ -2,7 +2,7 @@
 home: true
 heroImage: /images/title-Logo.png
 heroText: TheSourceCode Education
-tagline: Tutorials that go hand-in-hand with our videos!
+tagline: This site is a work in progress. If you would like to contribute visit our Github!
 actionText: Get Coding →
 actionLink: /topics/
 features:
@@ -14,3 +14,4 @@ features:
   details: We know that most of you are just learning, that is why we have taken the time to carefully craft this site to ensure little to no questions.
 footer: MIT Licensed | Copyright © 2020 TheSourceCode LLC
 ---
+
