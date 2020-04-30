@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/title-Logo.svg
+heroImage: /images/title-Logo.png
 heroText: TheSourceCode Education
 tagline: Tutorials that go hand-in-hand with our videos!
 actionText: Get Coding →

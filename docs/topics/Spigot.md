@@ -1,4 +1,5 @@
 # Spigot Plugin Development
+## How to Code a Spigot Plugin
 Getting started with Spigot plugin development can seem like a daunting task at first. Keep in mind that there is an incredible community on our [Discord](https://discord.thesourcecode.dev) that can provide additional help. One of the first things you should do is **learn some Java Basics** with our [Java beginners guide](). This is a common thing told to many new Spigot plugin developers and it is something that most refuse to do. While it may take about a week or two of your time away from developing your super fun plugins, it will increase your overall understanding of plugin development.
 
 ## Installing Java

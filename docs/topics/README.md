@@ -1,2 +1,2 @@
-# Programming Topics
-TheSourceCode covers a range of programming topics from Spigot coding, to Discord bot development and even Ubuntu tutorials!
+# Welcome aboard!
+In these sections you will learn various topics. If you find that there is any mistakes feel free to [send us email](mailto:docs@thesourcecode.dev) or visit our [Github Repo](https://github.com/The-SourceCode/TheSourceCode-Docs) and request a PR.
