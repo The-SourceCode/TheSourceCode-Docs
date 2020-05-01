@@ -7,7 +7,7 @@ module.exports = {
         {text: 'About', link: '/about/'},
         {text: 'Topics', link: '/topics/'},
         {text: 'Github', link: 'https://github.com/The-SourceCode/TheSourceCode-Docs'},
-        {text: 'Donate', link: 'https://bit.ly/donate-tsc'},
+        {text: 'Donate', link: 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WMRPWPN4R7TK4&source=url'},
         {text: 'Discord', link: 'https://discordapp.com/invite/w24CQMR'},
         ],
         sidebarDepth: 10,
